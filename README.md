@@ -1,14 +1,11 @@
-- Bienvenido a la absoluta nada
 
 
-<div align="center">
+<div align="left">
     <img src="https://grizbiub.neocities.org/gatop.gif" height="120px" />
 </div>
 
-<br/>
-
-<br/>
-
+- Bienvenido a la absoluta nada
+- Mi lugar personal de caos
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
@@ -19,8 +16,6 @@
 
 
 <p align="center"> 
-  <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
   </div> 
 </p>
