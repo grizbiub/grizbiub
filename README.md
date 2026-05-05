@@ -4,8 +4,8 @@
     <img src="https://grizbiub.neocities.org/gatop.gif" height="120px" />
 </div>
 
-- Bienvenido a la absoluta nada
-- Mi lugar personal de caos
+<h1>Bienvenido a la absoluta nada</h1>
+<h1>Mi lugar personal de caos</h1>
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
