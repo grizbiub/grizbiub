@@ -1,4 +1,4 @@
-# Ben. B. U.
+# Griz
 
 <div align="left">
     <img src="https://grizbiub.neocities.org/gatop.gif" height="120px" />
