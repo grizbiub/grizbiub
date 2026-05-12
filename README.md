@@ -6,6 +6,8 @@
 
 - Bienvenido a la absoluta nada
 - Mi lugar personal de caos
+- Simplente lugar donde subo mis tonteras
+- Si, nada profesional por ahora
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
